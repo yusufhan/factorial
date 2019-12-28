@@ -1,0 +1,9 @@
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe.config
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\bin\Debug\faktoriyel.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\bin\Debug\faktoriyel.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\obj\Debug\faktoriyel.Form1.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\obj\Debug\faktoriyel.Properties.Resources.resources
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\obj\Debug\faktoriyel.csproj.GenerateResource.Cache
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\obj\Debug\faktoriyel.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\faktoriyel\faktoriyel\obj\Debug\faktoriyel.pdb
